@@ -167,9 +167,17 @@ h2{
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);    
+    
 }
 
-.button-1:hover,
-.button-1:focus {
-  background-color: #F082AC;
+ .button-1:hover,
+ .button-1:focus {
+   background-color: #F082AC;
 }
