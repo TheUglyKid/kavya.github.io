@@ -298,7 +298,7 @@ const animationTimeline = () => {
   // Restart Animation on click
   const replyBtn = document.getElementById("replay");
   replyBtn.addEventListener("click", () => {
-    window.location.href = "https://musfi.netlify.app/index-1.html";
+    window.location.href = "https://shivangiqt.netlify.app/index1.html";
   });
 };
 
