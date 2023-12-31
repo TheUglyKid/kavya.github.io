@@ -163,7 +163,7 @@ h2{
   text-align: center;
   text-decoration: none;
   transition: color 100ms;
-  vertical-align: center;
+  vertical-align: justify;
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;  
