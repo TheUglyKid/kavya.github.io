@@ -298,7 +298,7 @@ const animationTimeline = () => {
   // Restart Animation on click
   const replyBtn = document.getElementById("replay");
   replyBtn.addEventListener("click", () => {
-    window.location.href = "drag/index.html";
+    window.location.href = "index1.html";
   });
 };
 
