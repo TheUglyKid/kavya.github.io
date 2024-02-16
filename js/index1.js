@@ -37,7 +37,7 @@ $(".audio-2").click(function () {
 
 $("#checkbox").click(function () {
   if (this.checked) {
-    window.location.href = "index3.html";
+    window.location.href = "drag/index.html";
   }
 });
 
