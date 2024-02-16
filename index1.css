@@ -1,176 +1,42 @@
-body{
-    background-color: rgb(221, 113, 143);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>saro-rosy ❤️</title>
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Short+Stack&amp;family=Homemade+Apple&amp;display=swap'>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-.coll{
-    width: 600px;
-    height: 300px;
-    object-fit: cover;
-    cursor: pointer;
-    transition: width 250ms ease, height 250ms ease;
-    border-radius: 5px;
-    background-color: rgb(86, 202, 255);
-    /* border-radius: rgb(155, 28, 148); */
-    margin-top: 200px;
-    display: inline-block;
-    position: relative;
-    left: -600px;
-}
-
-h2{
-    display: flex;
-    justify-content: center;
-    /* align-items: center; */
-    font-size: 70px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-.coll-2{
-    width: 700px;
-    height: 250px;
-    object-fit: cover;
-    cursor: pointer;
-    transition: width 250ms ease, height 250ms ease;
-    border-radius: 5px;
-    background-color: rgb(11, 74, 168);
-    /* border-radius: rgb(155, 28, 148); */
-    margin-top: 200px;
-    display: inline-block;
-    position: relative;
-    right: 350px;
-}
-
-.coll-2 h2{
-    position: relative;
-    top: 60px;
-    display: flex;
-    justify-content: center;
-    font-size: 40px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-.coll-3{
-    width: 750px;
-    height: 300px;
-    object-fit: cover;
-    cursor: pointer;
-    transition: width 250ms ease, height 250ms ease;
-    border-radius: 5px;
-    background-color: rgb(71, 206, 18);
-    /* border-radius: rgb(155, 28, 148); */
-    margin-top: 200px;
-    display: inline-block;
-    position: relative;
-    left: -80px;
-    top: 20px;
-}
-
-.coll-3 h2{
-    display: inline;
-    justify-content: center;
-    font-size: 50px;
-    position: relative;
-    right: -30px;
-    top: 40px;
-}
-
-.coll-4{
-    width: 500px;
-    height: 250px;
-    object-fit: cover;
-    cursor: pointer;
-    transition: width 250ms ease, height 250ms ease;
-    border-radius: 5px;
-    background-color: rgb(255, 251, 0);
-    /* border-radius: rgb(155, 28, 148); */
-    margin-top: 200px;
-    display: inline-block;
-    position: relative;
-    right: -90px;
-}
-
-.coll-4 h2{
-    position: relative;
-    top: 30px;
-    display: flex;
-    justify-content: center;
-    font-size: 70px;
-}
-
-.coll-5{
-    width: 600px;
-    height: 200px;
-    object-fit: cover;
-    cursor: pointer;
-    transition: width 250ms ease, height 250ms ease;
-    border-radius: 5px;
-    background-color: rgb(45, 209, 127);
-    /* border-radius: rgb(155, 28, 148); */
-    margin-top: 200px;
-    display: inline-block;
-    position: relative;
-    right: -300px;
-}
-
-.coll-5 h2{
-    font-size: 70px;
-}
-
-.coll-6{
-    width: 500px;
-    height: 200px;
-    object-fit: cover;
-    cursor: pointer;
-    transition: width 250ms ease, height 250ms ease;
-    border-radius: 5px;
-    background-color: rgb(193, 209, 45);
-    /* border-radius: rgb(155, 28, 148); */
-    display: inline-block;
-    position: relative;
-    top: 100px;
-    right: -500px;
-}
-
-.coll-6 h2{
-    display: flex;
-    justify-content: center;
-    font-size: 20px;
-    margin-top: 80px;
-}
-
-
-.bhosda {
-  background-color: #EA4C89;
-  border-radius: 8px;
-  border-style: none;
-  box-sizing: border-box;
-  color: #FFFFFF;
-  cursor: pointer;
-  display: inline-block;
-  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  font-weight: 500;
-  height: 40px;
-  line-height: 20px;
-  list-style: none;
-  margin: 0;
-  outline: none;
-  padding: 10px 16px;
-  position: relative;
-  text-align: center;
-  text-decoration: none;
-  transition: color 100ms;
-  vertical-align: justify;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;  
-    
-}
-
- .button-1:hover,
- .button-1:focus {
-   background-color: #F082AC;
-}
+<!-- Developed by Saravanan  -->
+<div class="paper heart">
+</div>
+<div class="paper image">
+  <p> and I fallen in</p>
+    <p>Love with You 😍 </p>
+   <img src="https://iili.io/HSzXpzg.jpg" />
+</div>
+<div class="paper image">
+  <p</p>
+  <img src="https://iili.io/HSzXbmF.jpg" />
+</div>
+<div class="paper image">
+  <p>How can be </p>
+   <p> someone so cute ❤️ </p>
+  <img src="https://iili.io/HSzXyXa.jpg" />
+</div>
+<div class="paper red">
+<p class="p1"> and My Favorite</p>
+<p class="p2">Person 😍</p>
+</div>
+<div class="paper">
+<p class="p1">You are Cute </p>
+  <p class="p1">Amazing <span style="color: red !important;">❤️</span></p>
+</div>
+<div class="paper">
+<p class="p1">Drag the papers to move!</p>
+</div>
+<!-- javascript file -->
+  <script  src="script.js"></script>
+</body>
+</html>
